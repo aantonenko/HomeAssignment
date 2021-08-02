@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2021-07-27",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 2
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180213",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200623",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200623",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA206389",
+      "sponsor_name": "TELIGENT",
+      "openfda": {
+        "application_number": [
+          "ANDA206389"
+        ],
+        "brand_name": [
+          "BETAMETHASONE DIPROPIONATE"
+        ],
+        "generic_name": [
+          "BETAMETHASONE DIPROPIONATE"
+        ],
+        "manufacturer_name": [
+          "Teligent Pharma, Inc."
+        ],
+        "product_ndc": [
+          "52565-023"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "BETAMETHASONE DIPROPIONATE"
+        ],
+        "rxcui": [
+          "848178"
+        ],
+        "spl_id": [
+          "3e7bbd47-5cf6-4aac-9653-271bf6e4d584"
+        ],
+        "spl_set_id": [
+          "3b4b9e5a-769d-7034-c381-6796837a2e24"
+        ],
+        "package_ndc": [
+          "52565-023-29",
+          "52565-023-59"
+        ],
+        "unii": [
+          "826Y60901U"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BETAMETHASONE DIPROPIONATE",
+          "active_ingredients": [
+            {
+              "name": "BETAMETHASONE DIPROPIONATE",
+              "strength": "EQ 0.05% BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "LOTION, AUGMENTED",
+          "route": "TOPICAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200417",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171109",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200417",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA206118",
+      "sponsor_name": "TELIGENT",
+      "openfda": {
+        "application_number": [
+          "ANDA206118"
+        ],
+        "brand_name": [
+          "BETAMETHASONE DIPROPIONATE"
+        ],
+        "generic_name": [
+          "BETAMETHASONE DIPROPIONATE"
+        ],
+        "manufacturer_name": [
+          "McKesson Corporation",
+          "Teligent Pharma, Inc."
+        ],
+        "product_ndc": [
+          "63739-996",
+          "52565-019"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "BETAMETHASONE DIPROPIONATE"
+        ],
+        "rxcui": [
+          "848180"
+        ],
+        "spl_id": [
+          "2e6365d8-cbee-42dd-b919-373edf1ce243",
+          "0f582800-bd39-4e95-b38e-26f69729d505"
+        ],
+        "spl_set_id": [
+          "51530f90-6587-494d-8059-610820fa5d0b",
+          "b1c3c530-6e28-4fba-9a9d-5fac9819e3e6"
+        ],
+        "package_ndc": [
+          "63739-996-65",
+          "52565-019-15",
+          "52565-019-51"
+        ],
+        "unii": [
+          "826Y60901U"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BETAMETHASONE DIPROPIONATE",
+          "active_ingredients": [
+            {
+              "name": "BETAMETHASONE DIPROPIONATE",
+              "strength": "EQ 0.05% BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "OINTMENT, AUGMENTED",
+          "route": "TOPICAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}
